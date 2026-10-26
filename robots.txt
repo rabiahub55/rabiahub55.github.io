@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rabiahub55.github.io/travelvista/sitemap.xml
